@@ -5,6 +5,11 @@
 
         <classes>
             <class name="OpencartTest.WhishListTest">
+                <methods>
+                    <exclude name="">
+
+                    </exclude>
+                </methods>
             </class>
 
         </classes>
